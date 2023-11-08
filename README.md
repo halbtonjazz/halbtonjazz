@@ -1,15 +1,46 @@
-Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anatol
-==============================================================================================================================
+¡Hi there! 👋 My name is Anatol
+=======================
 
+```dart
+//    I'm a Python back-end developer
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Python", "Javascript", "Java", "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Frameforks" : { "Django", "Flask" },
+    "ComputerNetworks" : { "OSI", "TCP/IP" },
+    "Database" : { "PostgreSQL", "Sqlite" },
+    "Editors" : { "Vscode", "PyCharm" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows", "Azure", "GCP" },
+    "OtherTools" : { "Git", "Docker", "PostmanAPI", "Figma" },
+    "SoftSkills" : { "TeamBuilding", "ProblemSolving", "TimeManagement", "AttentionToDetail" }
+  };
+}
+```
+---
+
+In the world of IT business development, I was the guy who could talk cloud by day and network by night. Sometimes I dabbled in Python to automate the mundane in my work. And one day, while fine-tuning a parsing script, I totally zoned out and missed a business meeting. That script might have cost me a handshake, but it shook up my world for the better. Now I'm coding my way to the next big eureka, one missed meeting at a time = )
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="550" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-Python developer
-----------------
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [skrzynka.szymanskiego@gmail.com](mailto:skrzynka.szymanskiego@gmail.com)
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/halbtonjazz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/anatol-szymanski" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+
+
+
+-------------------------------
+
+
+
+
 
 ### Skills
 
@@ -19,9 +50,7 @@ Python developer
 </p>
 
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/halbtonjazz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/anatol-szymanski" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 <hr></hr>
 
@@ -56,21 +85,13 @@ Python developer
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
-```dart
-// tools_I_use organized
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
-```
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=halbtonjazz&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=halbtonjazz&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=halbtonjazz&theme=vision_friendly_dark&utcOffset=8)
+<a href="https://github.com/halbtonjazz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halbtonjazz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+
