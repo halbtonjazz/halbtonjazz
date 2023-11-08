@@ -59,19 +59,20 @@ In the world of IT business development, I was the guy who could talk cloud by d
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/%20PyCharm-BAF300?logo=PyCharm)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Microsoft%20Azure-4F4FD9?logo=Microsoft%20Azure)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-4F4FD9?logo=Microsoft%20Azure)
+![Notion](https://img.shields.io/badge/Notion-595F5E?logo=notion)
+![GCP](https://img.shields.io/badge/Google%20Cloud%20Platform-FF6200?logo=Google%20Cloud)
 ![Docker](https://img.shields.io/badge/Docker-660BAB?logo=docker)
+![Jira](https://img.shields.io/badge/Jira-1B1BB3?logo=Jira)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=halbtonjazz&theme=vision_friendly_dark)
