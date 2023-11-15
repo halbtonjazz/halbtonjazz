@@ -68,6 +68,7 @@ In the world of IT business development, I was the guy who could talk cloud by d
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-4F4FD9?logo=Microsoft%20Azure)
+![Miro](https://img.shields.io/badge/Miro-D5F5DA?logo=miro)
 ![Notion](https://img.shields.io/badge/Notion-595F5E?logo=notion)
 ![GCP](https://img.shields.io/badge/Google%20Cloud%20Platform-FF6200?logo=Google%20Cloud)
 ![Docker](https://img.shields.io/badge/Docker-660BAB?logo=docker)
