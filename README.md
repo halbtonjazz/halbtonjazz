@@ -7,7 +7,7 @@
 
 class AboutMe():
     my_tools = {
-        "ProgrammingLanguages": ["Python", "C++"],
+        "ProgrammingLanguages": ["Python", "C++", Java],
         "OtherLanguages": ["HTML", "CSS", "Bash", "Json", "Markdown"],
         "Frameworks": ["Django", "Flask"],
         "ComputerNetworks": ["OSI", "TCP/IP"],
