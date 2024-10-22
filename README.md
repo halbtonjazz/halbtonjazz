@@ -30,7 +30,7 @@ In the world of IT business development, I was the guy who could talk cloud by d
 </p>
 
 * 🌍  I'm based in Poland
-* ✉️  You can contact me at [skrzynka.szymanskiego@gmail.com](mailto:skrzynka.szymanskiego@gmail.com)
+* ✉️  You can contact me at [skrzynka.szymanskiego@gmail.com](mailto:anatoly.miheev@icloud.com)
 
 
 ### Socials
