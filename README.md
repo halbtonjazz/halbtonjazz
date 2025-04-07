@@ -3,16 +3,15 @@
 
 ```python
 
-# I'm a Python back-end developer
+# I'm a Python Software Engineer
 
 class AboutMe():
     my_tools = {
         "ProgrammingLanguages": ["Python", "C++", "Java"],
-        "OtherLanguages": ["HTML", "CSS", "Bash", "Json", "Markdown"],
-        "Frameworks": ["Django", "Flask"],
+        "Frameworks": ["Odoo", "Django", "Flask"],
         "ComputerNetworks": ["OSI", "TCP/IP"],
-        "Database": ["PostgreSQL", "Sqlite"],
-        "Editors": ["Vscode", "PyCharm"],
+        "Database": ["PostgreSQL", "MySQL", "Sqlite"],
+        "Editors": ["Vscode", "PyCharm", "Cursor"],
         "Platforms": ["Mac", "GNU/Linux", "Windows", "Azure", "GCP"],
         "OtherTools": ["Git", "Docker", "PostmanAPI", "Figma"],
         "SoftSkills": ["TeamBuilding", "ProblemSolving", "TimeManagement", "AttentionToDetail"],
